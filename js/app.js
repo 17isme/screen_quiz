@@ -16,8 +16,8 @@ var app = new Vue({
 	el: '#app',
 	data: {
 		// 基础参数
-		width: "1280",
-		height: "720",
+		width: 1280,
+		height: 720,
 		scWidth: 1,
 		scHeight: 1,
 		quizNumRow: 8,
